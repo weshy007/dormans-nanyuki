@@ -20,23 +20,13 @@
 }
 body {
     background-color:rgb(105, 66, 63);
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    font-size: 22px;
-    font-style: 'Comic Sans MS' ;
-}
-.ourmenu {
-    text-align: center;
-}
-.menupic {
-    align-items: center;
+    font-style:italic;
 }
 .page4 {
     text-align: center;
 }
 #detailsfom {
-    margin-right: 1500px;
+    margin-right: 1380px;
 }
 
 .story, #menust {
