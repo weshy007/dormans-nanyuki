@@ -7,19 +7,14 @@
 
 }
 #navy {
-    float: right;
     width: 100px;
     color: #fff;
     font-weight: bold;
-    box-sizing: border-box;
-    border: 3px;
-    display: inline;
-    
 }
 .logo{
     position: absolute;
     color: #fff;
-    display: inline-block;
+  
     font-size: 2.1rem;
     padding: 0;
 }
@@ -31,7 +26,12 @@ body {
     font-size: 22px;
     font-style: 'Comic Sans MS' ;
 }
-
+.ourmenu {
+    text-align: center;
+}
+.menupic {
+    align-items: center;
+}
 .page4 {
     text-align: center;
 }
