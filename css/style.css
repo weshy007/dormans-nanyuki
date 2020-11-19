@@ -1,3 +1,55 @@
-h1 {
-    color:yellow
+
+.header {
+    background-color: black;
+    height: 70px;
+    width: 1800px;
+    padding: 0px;
+
+}
+#navy {
+    float: right;
+    width: 100px;
+    color: #fff;
+    font-weight: bold;
+    box-sizing: border-box;
+    border: 3px;
+    display: inline;
+    
+}
+.logo{
+    position: absolute;
+    color: #fff;
+    display: inline-block;
+    font-size: 2.1rem;
+    padding: 0;
+}
+body {
+    background-color:rgb(105, 66, 63);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 22px;
+    font-style: 'Comic Sans MS' ;
+}
+
+.page4 {
+    text-align: center;
+}
+#detailsfom {
+    margin-right: 1500px;
+}
+
+.story, #menust {
+    width: 400px;
+    text-align: center;
+    margin-left: 200px;
+    margin: auto;
+    margin-right: 700px;
+}
+li {
+    list-style: none;
+    color: black;
+}
+#butt{
+    padding-right:5px ;
 }
